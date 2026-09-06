@@ -1,2 +1,14 @@
-# Space-Invaders-Python
-A classic Space Invaders arcade game developed using Python (Turtle, Random, Time ,modules)
+# Space Invaders Game 👾
+
+لعبة كلاسيكية تم برمجتها بالكامل باستخدام لغة Python.
+
+## 🚀 التقنيات المستخدمة:
+- **Python** (اللغة الأساسية)
+- **Turtle Module** (لتصميم الجرافيكس والواجهة وحركة اللاعبين)
+- **Time Module** (للتحكم في سرعة اللعبة)
+- **Random Module** (لبرمجة حركة الأعداء بشكل عشوائي)
+
+## 🎮 مميزات اللعبة:
+- واجهة مستخدم بسيطة وسلسة.
+- نظام حركة وإطلاق نار دقيق.
+- إدارة حالة اللعبة (Game State Management).
